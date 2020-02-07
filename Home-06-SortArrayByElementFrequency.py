@@ -47,6 +47,10 @@ def frequency_sort(items):
         ret += [e[0] for x in range(e[1])]
     return ret
 
+# list_name.index(element, start, end)
+# 
+
+
 
 from collections import Counter
 
