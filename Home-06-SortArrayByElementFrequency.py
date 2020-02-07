@@ -48,7 +48,7 @@ def frequency_sort(items):
     return ret
 
 # list_name.index(element, start, end)
-# 
+# sorted(... , key = "any functions for customized ordering")
 
 
 
